@@ -10,6 +10,7 @@ If you would like to add a resource, please [create an issue].
 
 ## Books (in English)
 
+
 ### History of Judo for Kids
 
 ![](covers/books/history-of-judo-for-kids.jpeg "History of Judo for Kids")
@@ -17,6 +18,10 @@ If you would like to add a resource, please [create an issue].
 Matt D'Aquino. History of Judo for Kids.
 
 **Summary.** Discover the origins of Judo and learn about the incredible man who dedicated his life to creating not only a worldwide sport but a way of life.
+
+Find it here: [<img src="assets/isbnsearch-org.png" height="12">](https://isbnsearch.org/isbn/9780648965350)
+            | [<img src="assets/banner-orell-fuessli.png" height="12">](https://www.orellfuessli.ch/shop/home/artikeldetails/A1060774496)
+
 
 ### Judo Games
 
@@ -26,12 +31,19 @@ Derek Scott. Judo Games.
 
 **Summary.** A collection of almost 100 games and exercises with easy to understand diagrams and simple clear explanations.
 
+Find it here: [<img src="assets/isbnsearch-org.png" height="12">](https://isbnsearch.org/isbn/9781847996107)
+            | [<img src="assets/banner-orell-fuessli.png" height="12">](https://www.orellfuessli.ch/shop/home/artikeldetails/A1002860226)
+
+
 ### Youngsters are playing a catchy game!
 
 Mark Donners. Youngsters are playing a catchy game! Teaching judo to children.
 
 **Summary.** The author shares his vision on teaching judo to children by describing his lesson plan.
 This book includes several lessons in which a limited number of judo techniques are practised repeatedly.
+
+Find it here: [<img src="assets/isbnsearch-org.png" height="12">](https://isbnsearch.org/isbn/9780244938093)
+
 
 ### Daddy Let's Play!
 
@@ -41,7 +53,12 @@ Mark Donners. Daddy Let's Play! Judo with parents.
 
 **Summary.** "Daddy Let's Play!" is entirely based on the idea of parent-child judo in which pre-schoolers participate with their parent.
 
+Find it here: [<img src="assets/isbnsearch-org.png" height="12">](https://isbnsearch.org/isbn/9780244488727)
+            | [<img src="assets/banner-orell-fuessli.png" height="12">](https://www.orellfuessli.ch/shop/home/artikeldetails/A1057173716)
+
+
 ## Books (in German)
+
 
 ### Macht Judo Kinder stark?
 
@@ -50,6 +67,10 @@ Mark Donners. Daddy Let's Play! Judo with parents.
 Sebastian Liebl. Macht Judo Kinder stark? Wirkungen von Kämpfen im Schulsport auf physische und psychosoziale Ressourcen.
 
 **Summary.** Die Studie "Macht Judo Kinder stark?" untersuchte über ein Schuljahr hinweg Wirkungen von Judo im Schulsport auf physische und psychosoziale Ressourcen.
+
+Hier zu finden: [<img src="assets/isbnsearch-org.png" height="12">](https://isbnsearch.org/isbn/9783898997805)
+              | [<img src="assets/banner-orell-fuessli.png" height="12">](https://www.orellfuessli.ch/shop/home/artikeldetails/A1033628002)
+
 
 ### Judo im Schulsport
 
@@ -60,6 +81,10 @@ André Herz, Jörg Eisenmacher. Judo im Schulsport. Grundlagen-Methodik-Technik.
 **Summary.** Allgemeine Lehrbücher, die sich mit Judosport befassen, sind für den Einsatz in der Schule meist ungeeignet, da sie nicht oder nur unzureichend auf die in den Lehrplänen geforderten Zielsetzungen eingehen.
 Das vorliegende Buch schließt diese Lücke.
 
+Hier zu finden: [<img src="assets/isbnsearch-org.png" height="12">](https://isbnsearch.org/isbn/9783785317976)
+              | [<img src="assets/banner-orell-fuessli.png" height="12">](https://www.orellfuessli.ch/shop/home/artikeldetails/A1009191278)
+
+
 ### Judo, ein packendes Spiel!
 
 ![](covers/books/judo-ein-packendes-spiel.jpeg "Judo, ein packendes Spiel!")
@@ -67,6 +92,9 @@ Das vorliegende Buch schließt diese Lücke.
 Mark Donners. Judo, ein packendes Spiel! Judospiele.
 
 **Summary.** Judo ist ein dynamischer Sport mit viel Platz für Spielelemente. Wie der Titel dieses Buches anzeigt, ist Judo ein packendes Spiel. Dieses Spiel Element ist sehr nützlich, wenn man die richtigen Methoden und Spiele verwenden. Dieses Buch beschreibt mehr als 100 Spiele und Variationen, um dieses Spiel-Element zu erhöhen und macht die Judo-Lektionen vielfältiger.
+
+Hier zu finden: [<img src="assets/isbnsearch-org.png" height="12">](https://isbnsearch.org/isbn/9780244931766)
+
 
 ### Kampfsportspiele für Kinder
 
@@ -77,6 +105,10 @@ Markus Michael Hauff, Yasmin Faslija. Kampfsportspiele für Kinder. Grundlagen, 
 **Summary.** Dieses Buch ist ein nützlicher Ratgeber, wie Kinder spielerisch an den Kampfsport herangeführt werden können.
 Neben pädagogischen Grundlagen und Methoden umfasst das Buch eine nach pädagogischen Zielen gegliederte Spielesammlung, die das spielerisch-leichte Erlernen der Kampfsportarten unterstützt.
 
+Hier zu finden: [<img src="assets/isbnsearch-org.png" height="12">](https://isbnsearch.org/isbn/9783613508705)
+              | [<img src="assets/banner-orell-fuessli.png" height="12">](https://www.orellfuessli.ch/shop/home/artikeldetails/A1049386862)
+
+
 ### Mit viel Fantasie zum Kampfsport
 
 ![](covers/books/mit-viel-fantasie-zum-kampfsport.jpeg "Mit viel Fantasie zum Kampfsport")
@@ -86,6 +118,10 @@ Pia Jung. Mit viel Fantasie zum Kampfsport. Ideenreiches Kindertraining zum Erfo
 **Summary.** Es ist ein Buch aus der Praxis für die Praxis und verfolgt die Idee mit Geschichten die Kinder zu begeistern und zu motivieren.
 Dieses Buch soll dazu beitragen, Techniken in kindgerechter Sprache zu vermitteln und soll somit viel Freude und Spass in die Trainingsgruppen bringen.
 
+Hier zu finden: [<img src="assets/isbnsearch-org.png" height="12">](https://isbnsearch.org/isbn/9783844275148)
+              | [<img src="assets/banner-orell-fuessli.png" height="12">](https://www.orellfuessli.ch/shop/home/artikeldetails/A1032897257)
+
+
 ### 999 Spiel- und Übungsformen im Ringen, Raufen und Kämpfen
 
 ![](covers/books/999-spiel-und-uebungsformen-im-ringen-raufen-und-kaempfen.jpeg "999 Spiel- und Übungsformen im Ringen, Raufen und Kämpfen")
@@ -94,6 +130,10 @@ Frank Bächle, Steffen Heckele. 999 Spiel- und Übungsformen im Ringen, Raufen u
 
 **Summary.** In diesem Band werden vielerlei Spiel- und Übungsformen zu dem grossen Handlungsfeld "Zweikämpfen" und "Kampfsportarten" dargestellt.
 
+Hier zu finden: [<img src="assets/isbnsearch-org.png" height="12">](https://isbnsearch.org/isbn/9783778022528)
+              | [<img src="assets/banner-orell-fuessli.png" height="12">](https://www.orellfuessli.ch/shop/home/artikeldetails/A1018871048)
+
+
 ### Doppelstunde Ringen und Raufen
 
 ![](covers/books/doppelstunde-ringen-und-raufen.jpeg)
@@ -101,6 +141,10 @@ Frank Bächle, Steffen Heckele. 999 Spiel- und Übungsformen im Ringen, Raufen u
 Frank Bächle, Steffen Heckele. Doppelstunde Ringen und Raufen. Unterrichtseinheiten und Stundenbeispiele für Schule und Verein.
 
 **Summary.** Auf der Basis eines zweikampfgemässen Konzepts bietet die Doppelstunde Ringen und Raufen vielfältige und altersgemässe Unterrichtseinheiten zur Vermittlung des regelgerechten Ringen und Raufens in der Schule.
+
+Hier zu finden: [<img src="assets/isbnsearch-org.png" height="12">](https://isbnsearch.org/isbn/9783778006023)
+              | [<img src="assets/banner-orell-fuessli.png" height="12">](https://www.orellfuessli.ch/shop/home/artikeldetails/A1063210596)
+
 
 ## Web, Videos, PDFs (English)
 
@@ -155,7 +199,7 @@ Hier finden Sie Spiele, die besonders die Integration in die Trainingsgruppe und
 
 ![](covers/dvds/fighting-games-rangeln-raufen-kaempfen-130-spiele-und-uebungen.jpg)
 
-**Summary.** Auf dieser DVD befinden sich Spiel-, Übungs- und Trainingsformen für den Bereich Rangeln, Raufen und Kämpfen. Im ersten Teil der DVD geht es um die Voraussetzungen und Basisfähigkeiten fürs Kämpfen. (...) Der zweite Teil befasst sich mit Gruppenkämpfen. (...) Der letzte Teil behandelt den Zweikampf am Boden und im Stand. 
+**Summary.** Auf dieser DVD befinden sich Spiel-, Übungs- und Trainingsformen für den Bereich Rangeln, Raufen und Kämpfen. Im ersten Teil der DVD geht es um die Voraussetzungen und Basisfähigkeiten fürs Kämpfen. (...) Der zweite Teil befasst sich mit Gruppenkämpfen. (...) Der letzte Teil behandelt den Zweikampf am Boden und im Stand.
 
 ## Articles / PDFs (German)
 
